@@ -6,10 +6,11 @@ Check out my lists in the "Stars" section of my profile for other projects I hav
 
 ## A few things to know about meee:
 - My pronouns are: she/they
-- I am a first-year student at The Hague University of Applied Sciences
+- I am a second-year student at The Hague University of Applied Sciences
 - I study Network- and Systems Engineering
 - I have decent proficiency in Object-Oriented programming style
 - Am currently learning C++, and am very interested in other low-level languages such as ASM.
+- I am in the process of writing my own C/C++ library :D | Check it out [here](https://github.com/foorpyxof/fpxlibc). It's quite empty still, but it's more for fun anyway 😅
 
 ---
 
