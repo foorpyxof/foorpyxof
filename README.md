@@ -1,4 +1,6 @@
 # Hello friends, my name is Erynn! :3
+## ~ Let's make this world a better place, one COMMIT, PUSH, or MERGE at a time! ~
+
 Welcome to my GitHub profile, where I have a bunch of projects that I'm currently working on, or have worked on in the past!  
 Check out my lists in the "Stars" section of my profile for other projects I have been an active part of, but are not part of my own repositories.
 
@@ -8,9 +10,11 @@ Check out my lists in the "Stars" section of my profile for other projects I hav
 - My pronouns are: she/her
 - I am a second-year student at The Hague University of Applied Sciences
 - I study Network- and Systems Engineering
+- I am a self-proclaimed Tech Freedom Fighter and an Open Source enthousiast!
 - I have decent proficiency in Object-Oriented programming style
 - Am currently learning C and C++, and am very interested in other low-level languages such as ASM.
 - I am in the process of writing my own C/C++ library :D | Check it out [here](https://github.com/foorpyxof/fpxlibc). It's quite empty still, but it's more for fun anyway 😅
+- I am working on getting my AS set up
 
 ---
 
