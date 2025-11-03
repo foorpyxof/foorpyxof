@@ -8,7 +8,7 @@ Check out my lists in the "Stars" section of my profile for other projects I hav
 
 ## A few things to know about meee:
 - My pronouns are: she/her
-- I am a second-year student at The Hague University of Applied Sciences
+- I am a third-year student at The Hague University of Applied Sciences
 - I study Network- and Systems Engineering
 - I am an Open Source enthousiast!
 - I have decent proficiency in Object-Oriented programming style
