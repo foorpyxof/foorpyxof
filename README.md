@@ -13,7 +13,7 @@ Check out my lists in the "Stars" section of my profile for other projects I hav
 - I am an Open Source enthousiast!
 - I have decent proficiency in Object-Oriented programming style
 - Am currently learning C and C++, and am very interested in other low-level languages such as ASM.
-- I am in the process of writing my own C/C++ library :D | Check it out [here](https://github.com/foorpyxof/fpxlibc). It's quite empty still, but it's more for fun anyway 😅
+- I am in the process of writing a BUNCH of C and C++ projects!!!!!!! :D | Check them out [here (general C/C++ library)](https://github.com/foorpyxof/fpxlibc), [here (C 3D graphics library)](https://github.com/foorpyxof/fpxlib3d) and [here (game engine)](https://github.com/foorpyxof/fag)
 - I am working on getting my AS set up
 
 ---
